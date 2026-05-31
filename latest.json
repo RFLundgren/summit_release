@@ -1,0 +1,15 @@
+﻿{
+    "version":  "1.0.0",
+    "notes":  "https://github.com/RFLundgren/Summit/releases/tag/v1.0.0",
+    "pub_date":  "2026-05-31T22:17:41Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "url":  "https://github.com/RFLundgren/Summit/releases/download/v1.0.0/Summit_1.0.0_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTU5SK2xDa1poOTNiYXIxQ2xnZlF6cTJQVHB5Tk9EN25tRFA2eHFGaWVleG5yanYvdmQ1SVR3UmdDYkc4NWRYNkpqVFBzbzBnR29BNHpJTWhHN0ZybFhjTENxZlNIM0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjY1ODYxCWZpbGU6U3VtbWl0XzEuMC4wX3g2NC1zZXR1cC5leGUKVjZpWjlZMjQzOWdYN2xOUFMxbm1UaG4zdXduS0k5bVlJQ0l3V1Z2VXM3S0VvdGVqellTV20rWlBzZGVoRHJNZEdnc1JsYlhISnJ0TzlaMVFzbEQ5QlE9PQo="
+                                         },
+                      "windows-aarch64":  {
+                                              "url":  "https://github.com/RFLundgren/Summit/releases/download/v1.0.0/Summit_1.0.0_arm64-setup.exe",
+                                              "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTU5SK2xDa1poOXlUVitqNm9kT05GMDNWamxkQTFhdXFGRFZab3dPMVBUL0IyVHhhQnF1c1lZU0o4aXFhdkE4bEZBa3BSNGUyS1g2QjdCeGFqU2VRamVKSFdZTm5aR2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjY1Nzg5CWZpbGU6U3VtbWl0XzEuMC4wX2FybTY0LXNldHVwLmV4ZQpwTnlGZ0hjV0VEVEEwcU1ScFhGYlBTWkoyaXZvZ2VmYWQyNHlmM2R2bDFTYXduQ2M4KzkyTjQvSWFReGpGQXZ0UFpXekdTWGppV0Q1bDNzcmhWZWRBQT09Cg=="
+                                          }
+                  }
+}
